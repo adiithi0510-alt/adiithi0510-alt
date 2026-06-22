@@ -111,10 +111,9 @@ Goals:
 
 ## 🐍 Contribution Snake
 
-```text
-Set up GitHub Actions to generate the snake animation:
+
 https://github.com/Platane/snk
-```
+
 
 ---
 
