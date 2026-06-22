@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=adiithi0510-alt&hide_border=false&ring=F4A6C1&fire=F4A6C1&currStreakLabel=F4A6C1&sideNums=C97C98&currStreakNum=C97C98&sideLabels=C97C98"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adiithi0510-alt&bg_color=1b2a41&hide_border=true&ring=F4A6C1&fire=F4A6C1&currStreakLabel=F4A6C1&sideNums=C97C98&currStreakNum=C97C98&sideLabels=C97C98"/>
 
 </div>
 
@@ -72,7 +72,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&show_icons=true&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&show_icons=true&hide_border=true&bg_color=1b2a41&color=C97C98&" />
 </p>
 
 ---
