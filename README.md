@@ -73,11 +73,9 @@
 
 ## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adiithi0510-alt&theme=flat&no-frame=true&margin-w=10&column=4"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&show_icons=true&hide_border=true" />
+</p>
 
 ---
 
