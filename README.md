@@ -5,7 +5,7 @@
 
   # 🌸 Hello, I'm Adithi 🌸
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=F4A6C1&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Enthusiast;Linux+Learner;Open+Source+Explorer;Building+Something+New+Every+Day+%F0%9F%92%96"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=F4A6C1&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Enthusiast;Python;Cloud+deployment;Building+Something+New+Every+Day+%F0%9F%92%96"/>
 
 <img src="https://komarev.com/ghpvc/?username=adiithi0510-alt&label=Profile+Views&color=F4A6C1&style=for-the-badge" />
 
@@ -19,9 +19,7 @@
 
 💻 Learning Java, Data Structures & Algorithms
 
-🐧 Exploring Linux and Open Source
-
-🌸 Passionate about creating useful projects
+🐧 Exploring Cloud computing and azure
 
 ✨ Always learning something new
 
@@ -33,7 +31,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,c,cpp,linux,git,github,vscode,mysql&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,c,azure,linux,git,github,mysql&theme=dark" />
 
 </div>
 
@@ -90,10 +88,7 @@ Learning:
   - Linux
   - Git & GitHub
 
-Goals:
-  - Build impactful projects
-  - Contribute to Open Source
-  - Become a Software Developer
+
 ```
 
 ---
