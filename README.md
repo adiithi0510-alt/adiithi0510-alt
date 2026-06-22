@@ -111,8 +111,7 @@ Goals:
 
 ## 🐍 Contribution Snake
 
-
-https://github.com/Platane/snk
+![Snake animation](https://github.com/adiithi0510-alt/adiithi0510-alt/blob/output/github-contribution-grid-snake.svg)
 
 
 ---
