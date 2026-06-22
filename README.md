@@ -1,6 +1,6 @@
 <!-- 🌸 HEADER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=F7D6E0&text=Adithi%20Parmar&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F7D6E0&fontColor=ffffff&fontSize=48&fontAlignY=40&animation=fadeIn"/> 
   <img width="450" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/studying.gif"/>
 
   # 🌸 Hello, I'm Adithi 🌸
