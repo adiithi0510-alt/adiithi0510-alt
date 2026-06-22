@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/study-anime.gif">
+<img width="350" src="https://media.tenor.com/2uyENRmiUt0AAAAC/study-anime.gif">
 </div>
 
 # 🌸 Hello, I'm Adithi 🌸
