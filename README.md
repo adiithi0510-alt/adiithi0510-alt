@@ -1,33 +1,34 @@
-## 👋 Hi, I'm Adithi!
-
-
 <div align="center">
 
-# 🌸 Hi, I'm Adithi! 🌸
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=F8C8DC&text=Adithi%20Parmar&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Developer;Linux+Learner;Open+Source+Explorer;Always+Learning+New+Things+%F0%9F%92%96" />
+# 🌸 Hello, I'm Adithi 🌸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&pause=1000&color=F4A6C1&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+Enthusiast;Linux+Learner;Open+Source+Explorer;Building+Something+New+Every+Day+%F0%9F%92%96"/>
+
+<img src="https://komarev.com/ghpvc/?username=adiithi0510-alt&label=Profile+Views&color=F4A6C1&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 💖 About Me
+## 🎀 About Me
 
 🌷 Computer Science Student
 
-💻 Learning Java, Data Structures & Linux
+💻 Learning Java, Data Structures & Algorithms
 
-🚀 Exploring Open Source & GitHub
+🐧 Exploring Linux and Open Source
 
-📚 Always curious about technology
+🌸 Passionate about creating useful projects
 
-🎯 Goal: Become a skilled Software Developer
+✨ Always learning something new
+
+📚 Turning coffee into code
 
 ---
 
-## 🌸 Tech Stack
+## 💖 Tech Stack
 
 <div align="center">
 
@@ -37,63 +38,72 @@
 
 ---
 
-## 💕 GitHub Stats
+## 🌷 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF69B4"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&show_icons=true&hide_border=true&theme=transparent&title_color=F4A6C1&icon_color=F4A6C1&text_color=C97C98"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiithi0510-alt&layout=compact&hide_border=true&theme=transparent&title_color=F4A6C1&text_color=C97C98"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🌸 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=adiithi0510-alt&hide_border=true&ring=F4A6C1&fire=F4A6C1&currStreakLabel=F4A6C1&sideNums=C97C98&currStreakNum=C97C98&sideLabels=C97C98"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🩷 Activity Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiithi0510-alt&bg_color=ffffff&color=C97C98&line=F4A6C1&point=F8C8DC&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🌷 Contribution Graph
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF"/>
+<img src="https://github-profile-trophy.vercel.app/?username=adiithi0510-alt&theme=flat&no-frame=true&margin-w=10&column=4"/>
 
 </div>
 
 ---
 
-## 💞 Connect With Me
+## 🌺 Current Focus
+
+```yaml
+Name: Adithi Parmar
+Location: India 🇮🇳
+Learning:
+  - Java
+  - Data Structures
+  - Linux
+  - Git & GitHub
+
+Goals:
+  - Build impactful projects
+  - Contribute to Open Source
+  - Become a Software Developer
+```
+
+---
+
+## 🎧 Currently Vibing To
 
 <div align="center">
 
-<a href="https://github.com/adiithi0510-alt">
-<img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="www.linkedin.com/in/adithi-parmar">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adiithi0510@gmail.com">
-<img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+*"Code. Learn. Build. Repeat."* ✨
 
 </div>
 
@@ -101,20 +111,19 @@
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+```text
+Set up GitHub Actions to generate the snake animation:
+https://github.com/Platane/snk
+```
 
 ---
 
 <div align="center">
 
-### 💖 Thanks for Visiting! 💖
+### 🌷 Thanks for visiting my profile! 🌷
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
+💖 Have a wonderful day! 💖
 
-⭐ Don't forget to star your favorite repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=F8C8DC"/>
 
 </div>
