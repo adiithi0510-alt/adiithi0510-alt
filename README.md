@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiithi0510-alt&theme=transparent&color=C97C98&line=F4A6C1&point=F8C8DC&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiithi0510-alt&theme=transparent&line=F4A6C1&point=F8C8DC&area=true&hide_border=true"/>
 
 </div>
 
