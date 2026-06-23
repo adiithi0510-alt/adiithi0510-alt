@@ -48,9 +48,7 @@
 ## 🩷 Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiithi0510-alt&line=F4A6C1&point=F8C8DC&area=true&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adiithi0510-alt&bg_color=00000000&color=F4A6C1&line=F4A6C1&point=F8C8DC&area=true&area_color=FCE4EC&hide_border=true"/>
 </div>
 
 ---
