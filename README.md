@@ -13,20 +13,6 @@
 
 ---
 
-## 🎀 About Me
-
-🌷 Computer Science Student
-
-💻 Learning Java, Data Structures & Algorithms
-
-🐧 Exploring Cloud computing and azure
-
-✨ Always learning something new
-
-📚 Turning coffee into code
-
----
-
 ## 💖 Tech Stack
 
 <div align="center">
@@ -75,21 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&show_icons=true&hide_border=true&bg_color=1b2a41&color=C97C98&" />
 </p>
 
----
-
-## 🌺 Current Focus
-
-```yaml
-Name: Adithi Parmar
-Location: India 🇮🇳
-Learning:
-  - Java
-  - Data Structures
-  - Linux
-  - Git & GitHub
-
-
-```
 
 ---
 
