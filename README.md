@@ -50,10 +50,7 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&show_icons=true&hide_border=true&theme=transparent&color=C97C98&" />
-</p>
-
+<img src="https://img.shields.io/badge/LeetCode-F4A6C1?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 ---
 
