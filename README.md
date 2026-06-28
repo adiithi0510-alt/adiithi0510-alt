@@ -35,9 +35,9 @@
 ## 🌸 GitHub Streak
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&show_icons=true&hide_border=true&theme=transparent&title_color=F4A6C1&icon_color=F4A6C1&text_color=C97C98&cache_seconds=1800"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiithi0510-alt&layout=compact&hide_border=true&theme=transparent&title_color=F4A6C1&text_color=C97C98&cache_seconds=1800"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adiithi0510-alt&hide_border=true&theme=transparent&ring=F4A6C1&fire=F4A6C1&currStreakLabel=C97C98&sideLabels=C97C98&dates=C97C98&currStreakNum=F4A6C1&sideNums=F4A6C1"/>
 </div>
+
 ---
 
 ## 🩷 Activity Graph
