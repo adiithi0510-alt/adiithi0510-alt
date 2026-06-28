@@ -48,12 +48,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<img src="https://img.shields.io/badge/LeetCode-F4A6C1?style=for-the-badge&logo=leetcode&logoColor=white"/>
-
----
-
 ## 🎧 Currently Vibing To
 
 <div align="center">
