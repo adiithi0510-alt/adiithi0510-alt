@@ -1,0 +1,26 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # every 12 hours
+  workflow_dispatch:          # allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Bust stats cache
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&cache_seconds=1" > /dev/null
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=adiithi0510-alt&cache_seconds=1" > /dev/null
+
+      - name: Touch README to trigger re-render
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          touch README.md
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: refresh stats"
+          git push
