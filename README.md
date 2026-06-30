@@ -24,11 +24,12 @@
 ---
 
 ## 🌷 GitHub Statistics
-<div align="center">
-  <img height="165em" width="49%" src="https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&show_icons=true&hide_border=true&theme=transparent&title_color=F4A6C1&icon_color=F4A6C1&text_color=C97C98"/>
-  <img height="165em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiithi0510-alt&layout=compact&hide_border=true&theme=transparent&title_color=F4A6C1&text_color=C97C98"/>
-</div>
----
+<table align="center">
+  <tr>
+    <td><img height="170em" src="https://github-readme-stats.vercel.app/api?username=adiithi0510-alt&show_icons=true&hide_border=true&theme=transparent&title_color=F4A6C1&icon_color=F4A6C1&text_color=C97C98"/></td>
+    <td><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiithi0510-alt&layout=compact&hide_border=true&theme=transparent&title_color=F4A6C1&text_color=C97C98"/></td>
+  </tr>
+</table>
 
 ## 🌸 GitHub Streak
 
